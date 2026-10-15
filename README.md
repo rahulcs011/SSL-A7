@@ -1,8 +1,8 @@
 # CS 202C — Software Systems Lab 7
 
 **Repository:** SSL-L7  
-**Student:** Prajyot Satarde  
-**Roll Number:** MC25BT012  
+**Student:** Rahul Ahirwar  
+**Roll Number:** CS25BT011
 **Branch:** Mathematics and Computing  
 **Institute:** IIT Dharwad
 
