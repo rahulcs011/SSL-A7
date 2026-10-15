@@ -234,7 +234,7 @@ The Python programs use the standard library and do not require additional packa
 ## Clone the Repository
 
 ```powershell
-git clone https://github.com/PrajyotXDev/SSL-L7.git
+git clone (https://github.com/rahulcs011/SSL-A7.git)
 cd SSL-L7
 ```
 ---
